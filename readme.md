@@ -7,11 +7,11 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller: ESP32-C3FH4: https://www.wemos.cc/en/latest/c3/c3_mini.html
 
 motors: 
 
-h-bridge:
+h-bridge: 
 
 sensors:
 
