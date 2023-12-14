@@ -1,27 +1,27 @@
 # LineFollower
 
-lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
+Voor iedereen die een RC auto'tje wilt dat je niet hoeft/kan besturen.
 
 ![A description of my image](images/empty.png)
 
   
 ## specifications
 
-microcontroller: ESP32-C3FH4: https://www.wemos.cc/en/latest/c3/c3_mini.html
+microcontroller: Arduino® Nano Every
 
-motors: 
+motors: 6V Pololu micro metal gearmotors with gear ratio30:1
 
-h-bridge: 
+h-bridge: DRV8833 Dual H-Bridge Motor Driver
 
-sensors:
+sensors: QTR-8A and QTR-8RC
 
-batteries:
+batteries: li-ion
 
-wireless communication:
+wireless communication: HC-05 bluetooth module
 
-distance sensor - motors:
+distance sensor - motors: +-14cm
 
-weight:
+weight: <2kg
 
-speed: 
+speed: low
 
