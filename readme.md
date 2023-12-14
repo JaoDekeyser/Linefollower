@@ -17,7 +17,7 @@ sensors: QTR-8A and QTR-8RC
 
 batteries: li-ion
 
-wireless communication: HC-05 bluetooth module
+wireless communication: HC-05 -Bluetooth to Serial Port Module
 
 distance sensor - motors: +-14cm
 
