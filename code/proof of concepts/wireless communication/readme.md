@@ -6,4 +6,4 @@ HC05-Bluetooth to Serial Port Module
 ### opmerkingen
 
 ### gebruiksaanwijzing
-
+Aangeraden smartphone APP: Serial Bluetooth Terminal 
