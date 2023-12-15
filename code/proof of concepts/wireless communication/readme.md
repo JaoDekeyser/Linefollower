@@ -4,6 +4,6 @@ minimale hard- en software waarmee aangetoond wordt dat duplex kan gecommuniceer
 ### configuratie
 HC05-Bluetooth to Serial Port Module
 ### opmerkingen
-
+PC arduino serial monitor & smartphone nodig
 ### gebruiksaanwijzing
 Aangeraden smartphone APP: Serial Bluetooth Terminal 
