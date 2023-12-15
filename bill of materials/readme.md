@@ -3,4 +3,6 @@
 
 |volgnummer|naam|omschrijving|nieuw/recup|kostprijs/stuk|aantal|subtotaal|
 |----------|----|------------|-----------|---------|------|---------|
-|         1| ESP32-C3FH4 |  WEMOS ESP32 C3   |nieuw|   7.5€           |   1   |      1   |
+|         1| Arduino Nano Every |  ATMEGA4809   |nieuw|   14.96€           |   1   |      1   |
+|----------|----|------------|-----------|---------|------|---------|
+|         1| Arduino Nano Every |  ATMEGA4809   |nieuw|   14.96€           |   1   |      1   |
