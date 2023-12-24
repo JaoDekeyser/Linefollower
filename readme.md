@@ -2,7 +2,7 @@
 
 Voor iedereen die een RC auto'tje wilt dat je niet hoeft/kan besturen.
 
-![A description of my image](images/empty.png)
+![Line follow robot Syntheseproject Jao](images/Line Follow Robot.png)
 
   
 ## specifications
