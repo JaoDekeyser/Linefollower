@@ -26,6 +26,6 @@
 |         21| Band |  Lego-auto wiel  |recup|   0.00€           |   2   |      0.00€   |
 |         22| Wiel |  3D-print  |nieuw|   0.10€           |   2   |      0.10€   |
 |         23| Motor-houder |  3D-print  |nieuw|   0.10€           |   2   |      0.10€   |
-|         24| Chasis |  Doosje chinees (peking eend)  |recup|   0.00€           |   1   |      0.00€   |
-|     Totaal    |  |    ||             |   # = 48+draadjes   |      38.35€   |
+|         24| Chasis |  3D-print  |recup|   0.00€           |   1   |      3.75€   |
+|     Totaal    |  |    ||             |   # = 48+draadjes   |      42.10€   |
 
