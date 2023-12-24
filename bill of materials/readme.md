@@ -27,5 +27,6 @@
 |         22| Wiel |  3D-print  |nieuw|   0.10€           |   2   |      0.10€   |
 |         23| Motor-houder |  3D-print  |nieuw|   0.10€           |   2   |      0.10€   |
 |         24| Chasis |  3D-print  |recup|   0.00€           |   1   |      3.75€   |
+|         25| Viltglijder |  Vilten meubeldoppen  |nieuw|   0.05€           |   1   |      0.05€   |
 |     Totaal    |  |    ||             |   # = 48+draadjes   |      42.10€   |
 
