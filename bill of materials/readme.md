@@ -7,7 +7,6 @@
 |         2| Sensor |  QTR-8A Reflectance Sensor Array  |nieuw|   1.24€           |   1   |      1.24€   |
 |         3| H-brug |  DRV8833 Dual H-Bridge Motor Drive  |nieuw|   0.48€           |   1   |      0.48€   |
 |         4| Motor |  Gear motor 6V 50:1 (GA12-N20 --> chinees)  |nieuw|   1.75€           |   2   |      3.50€   |
-|         4| Motor |  DC Toy / Hobby Motor - 130 Size  |nieuw|   2.80€           |   2   |      5.60€   |
 |         5| Bluetooth module |  HC-05 -Bluetooth to Serial Port Module  |nieuw|   3.47€           |   1   |      3.90€   |
 |         6| Batterij |  18650 Li-ion  |nieuw|   2.51€           |   2   |      5.02€   |
 |         7| Batterij-houder |  18650 batterij-houder  |nieuw|   1.64€           |   1   |      1.64€   |
@@ -28,5 +27,5 @@
 |         22| Wiel |  3D-print  |nieuw|   0.10€           |   2   |      0.10€   |
 |         23| Motor-houder |  3D-print  |nieuw|   0.10€           |   2   |      0.10€   |
 |         24| Chasis |  Doosje chinees (peking eend)  |recup|   0.00€           |   1   |      0.00€   |
-|     Totaal    |  |    ||             |   # = 48+draadjes   |      43.95€   |
+|     Totaal    |  |    ||             |   # = 48+draadjes   |      38.35€   |
 
