@@ -7,21 +7,21 @@ Voor iedereen die een RC auto'tje wilt dat je niet hoeft/kan besturen.
   
 ## specifications
 
-microcontroller: Arduino® Nano Every
+microcontroller: Arduino Nano Every ATMEGA4809 AVR
 
 motors: 6V Pololu micro metal gearmotors with gear ratio30:1
 
-h-bridge: DRV8833 Dual H-Bridge Motor Driver
+h-bridge: DRV8833 Dual H-Bridge Motor Drive
 
-sensors: QTR-8A and QTR-8RC
+sensors: QTR-8A Reflectance Sensor
 
-batteries: li-ion
+batteries: 18650 Li-ion
 
 wireless communication: HC-05 -Bluetooth to Serial Port Module
 
-distance sensor - motors: +-14cm
+distance sensor - motors: +-8cm
 
-weight: <2kg
+weight: 283g
 
-speed: low
+speed: 0.6 m/s
 
